@@ -1,0 +1,50 @@
+background-color {
+    color: #ffff00;
+}
+
+body {
+    color: #000000
+    }
+    
+span1 {
+    color: #f00
+    }
+
+span2 {
+    color: #32cd32
+    }
+
+span3 {
+    color: #ffff00
+    }
+
+span4 {
+    color: #000099
+}
+
+span5 {
+    color: #00cca3
+}
+
+span6 {
+    color: #ff9933
+}
+
+div {
+    background-color: #d7d6ff;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 350px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.completed-todo {
+    text-decoration: line-through;
+}
